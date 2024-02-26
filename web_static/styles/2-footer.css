@@ -1,8 +1,11 @@
+@charset "UUTF-8";
+
 footer {
-	color: #00FF00;
+	background-color: #00FF00;
 	height: 60px;
+	line-height: 60px;
 	width:100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	bottom: 0px;
+	position: absolute;
+	text-align: center;
 }
